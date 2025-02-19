@@ -1,0 +1,37 @@
+{
+    "image_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "waste_composition": {
+        "rigid_plastic": {
+            "present": false,
+            "pixel_count": 0,
+            "area_percentage": 0.0,
+            "estimated_weight_kg": 0.0
+        },
+        "cardboard": {
+            "present": true,
+            "pixel_count": 239692,
+            "area_percentage": 11.56,
+            "estimated_weight_kg": 2.397
+        },
+        "metal": {
+            "present": true,
+            "pixel_count": 35788,
+            "area_percentage": 1.73,
+            "estimated_weight_kg": 1.789
+        },
+        "soft_plastic": {
+            "present": true,
+            "pixel_count": 34687,
+            "area_percentage": 1.67,
+            "estimated_weight_kg": 0.277
+        }
+    },
+    "total_stats": {
+        "total_weight_kg": 4.464,
+        "waste_coverage": 14.96,
+        "distribution_evenness": 0.9
+    }
+}
