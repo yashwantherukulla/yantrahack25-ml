@@ -7,6 +7,7 @@ SORTIQ is a machine learning-based waste segmentation and analytics solution des
 ## Features
 
 - **Waste Segmentation**: Utilizes a deep learning model to segment and classify different types of waste materials in images.
+- **Object Detection**: Utilizes a deep learning model to detect types of waste via bounding boxes.
 - **Video Analytics**: Analyzes video streams to track waste objects, estimate their weight, and calculate throughput.
 - **API Integration**: Provides RESTful APIs for waste segmentation and video processing, enabling seamless integration with other systems.
 - **Real-time Processing**: Supports real-time processing of video streams for immediate waste analytics.
