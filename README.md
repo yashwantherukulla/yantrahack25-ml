@@ -114,7 +114,7 @@ SORTIQ is a machine learning-based waste segmentation and analytics solution des
 
 ### Video Processing API
 
-(Not Working)
+(WIP)
 
 - **Endpoint**: `/process-video`
 - **Method**: `POST`
@@ -135,7 +135,7 @@ SORTIQ is a machine learning-based waste segmentation and analytics solution des
 
 ### Check Processing Status
 
-(Not Working)
+(WIP)
 
 - **Endpoint**: `/status/{job_id}`
 - **Method**: `GET`
